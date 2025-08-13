@@ -8,7 +8,7 @@ Focada em Data Analytics e Business Intelligence
 
 ## Tecnologias
 - **Power BI** | **DAX** | **Power Query**
-- 
+ 
 ---
 
 ## Projetos em Destaque
